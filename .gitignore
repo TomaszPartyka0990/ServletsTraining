@@ -8,6 +8,8 @@
 *.iml
 *.iws
 
+/src/main/webapp/META-INF/
+
 # Mac
 .DS_Store
 
@@ -15,4 +17,3 @@
 log/
 target/
 
-/src/main/webapp/META-INF/
